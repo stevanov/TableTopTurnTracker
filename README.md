@@ -11,5 +11,4 @@ _Other possible features to be added later_
 * Simple hardware and hookup diagrams for inexperienced builders
 
 
-![Very first hard coded protoype](https://j.gifs.com/ZVqq0R.gif)
-Very first hard coded protoype
+[Very first hard coded protoype](https://j.gifs.com/ZVqq0R.gif)
